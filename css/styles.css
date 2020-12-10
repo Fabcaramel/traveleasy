@@ -1,0 +1,27 @@
+h1, h2, h3 {
+    font-family: 'Vollkorn', serif; 
+
+}
+
+.big-banner{
+    background-image: url('../img/IMG_8659.jpeg');
+    background-size: 100% ;
+
+}
+.jumbotron {
+    margin-top: -25px;
+    color: red; 
+}
+
+
+.row-content {
+    padding: 10px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; 
+}
+
+body {
+    font-family: 'Vollkorn', serif; 
+    
+}
+
